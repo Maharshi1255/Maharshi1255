@@ -6,13 +6,14 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a grade 9, High School Student.
-- 🔭: I’m currently working on many small ML projects.
-- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
-- 😄  Pronouns: He/His
-- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
+* 🎓: I'm a B.Tech graduate passionate about Software Development and Technology.
+* 💻: I’m currently working on Java Full Stack Development projects using Java, Spring Boot, React, HTML, CSS, and JavaScript.
+* 🌱: I’m currently learning advanced Java concepts, Microservices, and Cloud Technologies.
+* 🔍: I’m looking for opportunities to grow as a Java Full Stack Developer and contribute to real-world projects.
+* 💬: Ask me about Java, SQL, Web Development, Data Structures, and Full Stack Development.
+* 😄: Pronouns: He/Him
+* ⚡: Fun fact: I enjoy playing Badminton and Chess, participating in technical events, and continuously learning new technologies.
+
   
 <hr>
 <Br>
