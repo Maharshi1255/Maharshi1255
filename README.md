@@ -28,31 +28,53 @@
 
 ---
 
+
 ## 🛠️ Technical Skills
 
-### Programming Languages
+### 💻 Programming Languages
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=java,js,ts,python" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="35" /> **Java** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" height="35" /> **JavaScript** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="35" /> **TypeScript** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="35" /> **Python**
+</p>
 
-### Frontend Development
+### 🎨 Frontend Development
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="35" /> **HTML5** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="35" /> **CSS3** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="35" /> **React.js**
+</p>
 
-### Backend Development
+### ⚙️ Backend Development
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring" height="35" /> **Spring Boot** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" /> **Node.js**
+</p>
 
-### Database & Tools
+### 🗄️ Database
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea,postman" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" /> **MySQL** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" height="35" /> **PostgreSQL**
+</p>
+
+### 🔧 Tools & Development Environment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="35" /> **Git** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="35" /> **GitHub** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" /> **VS Code**
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=idea" height="35" /> **IntelliJ IDEA** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=eclipse" height="35" /> **Eclipse** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="35" /> **Postman**
+</p>
 
 ---
 
