@@ -1,96 +1,148 @@
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-</p>
-<hr>
-<h1 align="center">I'm <a href="https://github.com/Maharshi1255">Maharshi Indla<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-<Br>
-<h1>About Me! 😎</h1>
+<!-- ================= PROFILE HEADER ================= -->
 
-* 🎓: I'm a B.Tech graduate passionate about Software Development and Technology.
-* 💻: I’m currently working on Java Full Stack Development projects using Java, Spring Boot, React, HTML, CSS, and JavaScript.
-* 🌱: I’m currently learning advanced Java concepts, Microservices, and Cloud Technologies.
-* 🔍: I’m looking for opportunities to grow as a Java Full Stack Developer and contribute to real-world projects.
-* 💬: Ask me about Java, SQL, Web Development, Data Structures, and Full Stack Development.
-* 😄: Pronouns: He/Him
-* ⚡: Fun fact: I enjoy playing Badminton and Chess, participating in technical events, and continuously learning new technologies.
+<div align="center">
 
-  
-<hr>
-<Br>
-<h1 align="center">Get in Touch! 📬</h1>
-<Br>
-<p align="center">
-<a href="www.linkedin.com/in/maharshi-indla" target="blank"><img align="center" src="https://img.shields.io/badge/Maharshi Indla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:maharshiindla333@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/maharshiindla333@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Maharshi" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-  
-<Br>
-<hr>
-<Br>
-<h1 align="center">Skills I have! 🤸‍♂</h1>
-<Br>
-  
-|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
-  
-  
-<Br>
-<hr>
-<Br>
-<h1>Tools I use! 🛠️</h1>
-<Br>
- 
-|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)|![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)|![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)|![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)|![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
-  
+# Hi, I'm Maharshi Indla 👋
 
-<Br>
-<hr>
-<Br>
-<h1>Some of my Projects! 🎨</h1>
-<Br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
+### Java Full Stack Developer | Software Developer
 
-<Br>
-<hr>
-<Br>
-<h1>Certifications! 🏆</h1>
-<Br>
-  
-|[![](https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Introduction%20to%20Python-1.jpg)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
-|---|---|---|---|
-|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II-1.jpg)|[![](https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python-1.jpg)|[![](https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](https://github.com/Aryagm)|
-  
- 
+**Building practical applications. Learning new technologies. Solving real-world problems.**
 
-<Br>
-<hr>
-<Br>
-<h1>GitHub Stats! 📊</h1>
-<Br>
-  
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=Aryagm&show_icons=true&theme=merko)](https://github.com/Aryagm/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryagm&layout=compact&theme=merko)](https://github.com/Aryagm/github-readme-stats)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://maharshiindla-portfolioo.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maharshi-indla/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Maharshi1255)
 
- 
-<Br>
-<hr>
-<Br>
-<h1>A Little Joke at the End! 🤣</h1>
-<Br>
-  
-<img src="https://ih1.redbubble.net/image.471887531.0381/raf,750x1000,075,t,000000:44f0b734a5.u4.jpg"/>
-  
-  
-  
-<Br>
-<hr>
-<Br>
-<h1>Thank You! 🤵 </h1>
-<Br>
+</div>
 
-------
-  
-Credit: [Aryagm](https://github.com/Aryagm)
-Last Edited on: 22/06/2021
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Graduate in Electronics and Communication Engineering.
+- 💻 Aspiring **Java Full Stack Developer** passionate about software development.
+- ☕ Strong foundation in Core Java, OOP concepts and SQL.
+- 🌐 Hands-on experience with React.js, Spring Boot and frontend technologies.
+- 🚀 Interested in developing scalable web applications and RESTful APIs.
+- 🌱 Currently exploring Microservices, Advanced Java and Cloud Technologies.
+- 🎯 Actively seeking entry-level Software Developer opportunities.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=java,js,ts,python" />
+</div>
+
+### Frontend Development
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</div>
+
+### Backend Development
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</div>
+
+### Database & Tools
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea,postman" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Inventory Management System
+
+**Tech Stack:** Java, Spring Boot, React.js, TypeScript, HTML, CSS
+
+- Developed a web-based inventory management application.
+- Implemented frontend components using React.js and TypeScript.
+- Built backend functionality using Java and Spring Boot.
+
+### 2. Smart Health Prediction
+
+**Tech Stack:** Python, Machine Learning, Streamlit
+
+- Developed a multi-disease prediction web application.
+- Implemented Random Forest and Support Vector Machine algorithms.
+- Supports diabetes, heart disease and Parkinson's disease prediction.
+- Integrated a medication reminder feature.
+
+### 3. Brain Tumor Detection and Classification
+
+**Tech Stack:** Python, Deep Learning, CNN, Flask, SQL
+
+- Developed a two-stage CNN-based brain tumor detection system.
+- Integrated Grad-CAM for explainable AI visualization.
+- Worked with MRI image classification.
+
+### 4. Sign Language Detection
+
+**Tech Stack:** React.js, TypeScript, TensorFlow.js, MediaPipe
+
+- Developed a real-time American Sign Language recognition application.
+- Used MediaPipe Hands for hand landmark detection.
+- Implemented gesture recognition for alphabet and numeric signs.
+
+<div align="center">
+
+[![Explore Repositories](https://img.shields.io/badge/Explore-All%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/Maharshi1255?tab=repositories)
+
+</div>
+
+---
+
+## 📜 Certifications
+
+- Programming in Java – NPTEL
+- Cloud Computing – NPTEL
+- Google Android Virtual Internship – AICTE / EduSkills
+- Web Development Virtual Internship – EduSkills
+- Data Engineering Virtual Internship – EduSkills
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Maharshi1255&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maharshi1255&layout=compact&theme=github_dark&hide_border=true" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Maharshi1255&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maharshiindla-portfolioo.netlify.app)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maharshi%20Indla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maharshi-indla/)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maharshiindla333@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Maharshi1255-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maharshi1255)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Always Learning | Always Building | Always Improving
+
+⭐ Thanks for visiting my GitHub profile!
+
+</div>
