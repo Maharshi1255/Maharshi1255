@@ -75,15 +75,7 @@
 - Supports diabetes, heart disease and Parkinson's disease prediction.
 - Integrated a medication reminder feature.
 
-### 3. Brain Tumor Detection and Classification
-
-**Tech Stack:** Python, Deep Learning, CNN, Flask, SQL
-
-- Developed a two-stage CNN-based brain tumor detection system.
-- Integrated Grad-CAM for explainable AI visualization.
-- Worked with MRI image classification.
-
-### 4. Sign Language Detection
+### 3. Sign Language Detection
 
 **Tech Stack:** React.js, TypeScript, TensorFlow.js, MediaPipe
 
